@@ -40,7 +40,7 @@
     "redis": "^2.8.0",
     "snake-case": "^2.1.0",
     "snakecase-keys": "^1.1.1",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "speakeasy": "^2.0.0",
     "stats-lite": "^2.1.0",
     "validator": "^9.2.0",
